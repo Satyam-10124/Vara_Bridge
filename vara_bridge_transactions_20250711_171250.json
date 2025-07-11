@@ -1,0 +1,24 @@
+{
+  "bounty_submission": {
+    "title": "ETH \u2194 Vara Bridge Bounty",
+    "participant": "Satyam Singhal",
+    "wallet_addresses": {
+      "ethereum": "0x32707015d160F76f268a560F24a868D79251cF91",
+      "vara": "kGkZv3JrAudbdsKbw8nzgunwC1H5hjnh9o8V9GpUapcHAxTdj"
+    },
+    "transactions": [
+      {
+        "tx_hash": "0x13d1b28b94f3869eeda5676830543fbb9ba3c101ca34a4aa43287a23da04b3bb",
+        "status": "Failed",
+        "timestamp": "2025-07-11T17:11:56.046826",
+        "direction": "ETH \u2192 Vara",
+        "from_address": "0x32707015d160F76f268a560F24a868D79251cF91",
+        "to_address": "kGkLork3scX9ngz3vhFywax2uC3LUfp7m1PMxkQXdtdsnYiZA",
+        "amount": 0.005,
+        "currency": "ETH",
+        "network": "Ethereum Holesky \u2192 Vara Testnet"
+      }
+    ],
+    "submission_date": "2025-07-11T17:12:50.400918"
+  }
+}

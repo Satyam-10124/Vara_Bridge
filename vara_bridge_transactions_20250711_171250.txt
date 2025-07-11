@@ -1,0 +1,11 @@
+ETH <-> Vara Bridge Transactions
+========================================
+
+Transaction 1: 0x13d1b28b94f3869eeda5676830543fbb9ba3c101ca34a4aa43287a23da04b3bb
+  Status: Failed
+  Direction: ETH → Vara
+  Amount: 0.005 ETH
+  Time: 2025-07-11T17:11:56.046826
+  From: 0x32707015d160F76f268a560F24a868D79251cF91
+  To: kGkLork3scX9ngz3vhFywax2uC3LUfp7m1PMxkQXdtdsnYiZA
+

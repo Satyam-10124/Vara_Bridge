@@ -1,0 +1,176 @@
+2025-07-06 22:54:50,615 - INFO - Starting ETH <-> Vara Bridge
+2025-07-06 22:54:50,619 - ERROR - Critical error: Error loading bridge ABI from ./bridge_abi.json: [Errno 2] No such file or directory: './bridge_abi.json'
+2025-07-06 22:57:24,336 - INFO - Starting ETH <-> Vara Bridge
+2025-07-06 22:57:24,338 - INFO - Attempting to connect to Ethereum using: https://ethereum-holesky.publicnode.com
+2025-07-06 22:57:43,250 - INFO - Successfully connected to Ethereum using: https://ethereum-holesky.publicnode.com
+2025-07-06 22:57:52,698 - INFO - Connected to Ethereum: True
+2025-07-06 22:57:52,699 - INFO - Connected to Vara chain: Vara Network Testnet using RPC: wss://testnet.vara.network
+2025-07-06 22:57:52,730 - INFO - Using EVM address: 0x32707015d160F76f268a560F24a868D79251cF91
+2025-07-06 22:57:52,731 - INFO - Creating Vara keypair from private key
+2025-07-06 22:57:52,731 - INFO - Using Vara address: kGkZv3JrAudbdsKbw8nzgunwC1H5hjnh9o8V9GpUapcHAxTdj
+2025-07-06 22:57:54,803 - INFO - Ethereum ETH Balance: 21.473399264038721776 ETH
+2025-07-06 22:58:12,977 - INFO - Vara Balance: 0.0 VARA
+2025-07-06 22:58:12,992 - INFO - Bridging 0.001 ETH to Vara address: kGkLork3scX9ngz3vhFywax2uC3LUfp7m1PMxkQXdtdsnYiZA
+2025-07-06 22:58:17,045 - WARNING - Gas estimation failed: execution reverted. Using default gas limit: 500000
+2025-07-06 22:58:23,527 - INFO - Bridge transaction submitted with hash: 0x00ae9b253fbd3c600e4710b1efba0a1c6f5c73a75b8ab96e6a2f2755dcdeb807
+2025-07-06 22:58:23,529 - INFO - Waiting for transaction confirmation (up to 2 minutes)...
+2025-07-06 22:58:38,682 - ERROR - Bridge transaction FAILED
+2025-07-06 22:58:38,683 - ERROR - Failure details: Transaction failed on-chain. Check explorer for details.
+2025-07-06 22:58:38,684 - INFO - Saved 1 transaction hashes to vara_bridge_transactions_20250706_225838.txt and vara_bridge_transactions_20250706_225838.json
+2025-07-06 22:58:38,684 - WARNING - Bridge transaction was submitted but failed on-chain
+2025-07-06 22:58:38,685 - INFO - Please check the transaction on a blockchain explorer for more details
+2025-07-06 22:58:38,685 - INFO - Transaction details saved to vara_bridge_transactions_20250706_225838.txt and vara_bridge_transactions_20250706_225838.json
+2025-07-06 22:58:38,685 - INFO - Waiting 300 seconds before the next transaction...
+2025-07-07 14:12:27,203 - INFO - Starting ETH <-> Vara Bridge
+2025-07-07 14:12:27,205 - INFO - Attempting to connect to Ethereum using: https://ethereum-holesky.publicnode.com
+2025-07-07 14:12:28,073 - INFO - Successfully connected to Ethereum using: https://ethereum-holesky.publicnode.com
+2025-07-07 14:12:29,826 - INFO - Connected to Ethereum: True
+2025-07-07 14:12:29,826 - INFO - Connected to Vara chain: Vara Network Testnet using RPC: wss://testnet.vara.network
+2025-07-07 14:12:29,848 - INFO - Using EVM address: 0x32707015d160F76f268a560F24a868D79251cF91
+2025-07-07 14:12:29,848 - INFO - Creating Vara keypair from private key
+2025-07-07 14:12:29,849 - INFO - Using Vara address: kGkZv3JrAudbdsKbw8nzgunwC1H5hjnh9o8V9GpUapcHAxTdj
+2025-07-07 14:12:30,071 - INFO - Ethereum ETH Balance: 21.473399237129398868 ETH
+2025-07-07 14:12:33,454 - INFO - Vara Balance: 0.0 VARA
+2025-07-07 14:12:33,460 - INFO - Bridging 0.001 ETH to Vara address: kGkLork3scX9ngz3vhFywax2uC3LUfp7m1PMxkQXdtdsnYiZA
+2025-07-07 14:12:34,269 - WARNING - Gas estimation failed: execution reverted. Using default gas limit: 500000
+2025-07-07 14:12:36,247 - INFO - Bridge transaction submitted with hash: 0x32e879dd1ca36d89d67539330c2d854a7b7d3dcc32e0253ba6d710468ffce917
+2025-07-07 14:12:36,248 - INFO - Waiting for transaction confirmation (up to 2 minutes)...
+2025-07-07 14:13:14,712 - ERROR - Bridge transaction FAILED
+2025-07-07 14:13:14,714 - ERROR - Failure details: Transaction failed on-chain. Check explorer for details.
+2025-07-07 14:13:14,717 - INFO - Saved 1 transaction hashes to vara_bridge_transactions_20250707_141314.txt and vara_bridge_transactions_20250707_141314.json
+2025-07-07 14:13:14,717 - WARNING - Bridge transaction was submitted but failed on-chain
+2025-07-07 14:13:14,717 - INFO - Please check the transaction on a blockchain explorer for more details
+2025-07-07 14:13:14,717 - INFO - Transaction details saved to vara_bridge_transactions_20250707_141314.txt and vara_bridge_transactions_20250707_141314.json
+2025-07-07 14:13:14,717 - INFO - Waiting 300 seconds before the next transaction...
+2025-07-07 14:15:39,908 - INFO - Starting ETH <-> Vara Bridge
+2025-07-07 14:15:39,911 - INFO - Attempting to connect to Ethereum using: https://ethereum-holesky.publicnode.com
+2025-07-07 14:15:40,567 - INFO - Successfully connected to Ethereum using: https://ethereum-holesky.publicnode.com
+2025-07-07 14:15:42,722 - INFO - Connected to Ethereum: True
+2025-07-07 14:15:42,722 - INFO - Connected to Vara chain: Vara Network Testnet using RPC: wss://testnet.vara.network
+2025-07-07 14:15:42,753 - INFO - Using EVM address: 0x32707015d160F76f268a560F24a868D79251cF91
+2025-07-07 14:15:42,753 - INFO - Creating Vara keypair from private key
+2025-07-07 14:15:42,753 - INFO - Using Vara address: kGkZv3JrAudbdsKbw8nzgunwC1H5hjnh9o8V9GpUapcHAxTdj
+2025-07-07 14:15:42,983 - INFO - Ethereum ETH Balance: 21.473399214009052068 ETH
+2025-07-07 14:15:46,303 - INFO - Vara Balance: 0.0 VARA
+2025-07-07 14:15:46,308 - ERROR - No destination Vara address provided for bridging
+2025-07-07 14:15:46,308 - ERROR - Bridge transaction failed: Destination Vara address is required for bridging
+2025-07-07 14:15:46,308 - ERROR - Critical error: Destination Vara address is required for bridging
+2025-07-07 14:22:50,575 - INFO - Starting ETH <-> Vara Bridge
+2025-07-07 14:22:50,576 - INFO - Attempting to connect to Ethereum using: https://ethereum-holesky.publicnode.com
+2025-07-07 14:22:51,346 - INFO - Successfully connected to Ethereum using: https://ethereum-holesky.publicnode.com
+2025-07-07 14:22:53,535 - INFO - Connected to Ethereum: True
+2025-07-07 14:22:53,536 - INFO - Connected to Vara chain: Vara Network Testnet using RPC: wss://testnet.vara.network
+2025-07-07 14:22:53,563 - INFO - Using EVM address: 0x32707015d160F76f268a560F24a868D79251cF91
+2025-07-07 14:22:53,563 - INFO - Creating Vara keypair from private key
+2025-07-07 14:22:53,563 - INFO - Using Vara address: kGkZv3JrAudbdsKbw8nzgunwC1H5hjnh9o8V9GpUapcHAxTdj
+2025-07-07 14:22:54,259 - INFO - Ethereum ETH Balance: 21.473399214009052068 ETH
+2025-07-07 14:22:56,906 - INFO - Vara Balance: 0.0 VARA
+2025-07-07 14:22:56,911 - INFO - Bridging 0.001 ETH to Vara address: kGkLork3scX9ngz3vhFywax2uC3LUfp7m1PMxkQXdtdsnYiZA
+2025-07-07 14:22:58,237 - WARNING - Gas estimation failed: execution reverted. Using default gas limit: 500000
+2025-07-07 14:23:00,576 - INFO - Bridge transaction submitted with hash: 0x724d2ccb69a3ffb4c381955b8445a8f0b2be9d410bd2462cec9e54b581c3cc6f
+2025-07-07 14:23:00,576 - INFO - Waiting for transaction confirmation (up to 2 minutes)...
+2025-07-07 14:23:16,729 - ERROR - Bridge transaction FAILED
+2025-07-07 14:23:16,730 - ERROR - Failure details: Transaction failed on-chain. Check explorer for details.
+2025-07-07 14:23:16,732 - INFO - Saved 1 transaction hashes to vara_bridge_transactions_20250707_142316.txt and vara_bridge_transactions_20250707_142316.json
+2025-07-07 14:23:16,732 - WARNING - Bridge transaction was submitted but failed on-chain
+2025-07-07 14:23:16,732 - INFO - Please check the transaction on a blockchain explorer for more details
+2025-07-07 14:23:16,732 - INFO - Transaction details saved to vara_bridge_transactions_20250707_142316.txt and vara_bridge_transactions_20250707_142316.json
+2025-07-07 14:23:16,732 - INFO - Waiting 180 seconds before the next transaction...
+2025-07-07 14:26:16,752 - INFO - Bridging 0.001 ETH to Vara address: kGkLork3scX9ngz3vhFywax2uC3LUfp7m1PMxkQXdtdsnYiZA
+2025-07-07 14:26:17,952 - WARNING - Gas estimation failed: execution reverted. Using default gas limit: 500000
+2025-07-07 14:26:20,338 - INFO - Bridge transaction submitted with hash: 0xd24b8e473bc4a834dc3e1aa0d2815bcad52868dad85584bdec6b0bc2171179dc
+2025-07-07 14:26:20,338 - INFO - Waiting for transaction confirmation (up to 2 minutes)...
+2025-07-07 14:26:37,818 - ERROR - Bridge transaction FAILED
+2025-07-07 14:26:37,818 - ERROR - Failure details: Transaction failed on-chain. Check explorer for details.
+2025-07-07 14:26:37,820 - INFO - Saved 2 transaction hashes to vara_bridge_transactions_20250707_142637.txt and vara_bridge_transactions_20250707_142637.json
+2025-07-07 14:26:37,820 - WARNING - Bridge transaction was submitted but failed on-chain
+2025-07-07 14:26:37,820 - INFO - Please check the transaction on a blockchain explorer for more details
+2025-07-07 14:26:37,820 - INFO - Transaction details saved to vara_bridge_transactions_20250707_142637.txt and vara_bridge_transactions_20250707_142637.json
+2025-07-07 14:26:37,820 - INFO - Waiting 180 seconds before the next transaction...
+2025-07-07 14:43:33,017 - INFO - Starting ETH <-> Vara Bridge
+2025-07-07 14:43:33,018 - INFO - Attempting to connect to Ethereum using: https://ethereum-holesky.publicnode.com
+2025-07-07 14:43:33,890 - INFO - Successfully connected to Ethereum using: https://ethereum-holesky.publicnode.com
+2025-07-07 14:43:36,358 - INFO - Connected to Ethereum: True
+2025-07-07 14:43:36,358 - INFO - Connected to Vara chain: Vara Network Testnet using RPC: wss://testnet.vara.network
+2025-07-07 14:43:36,390 - INFO - Using EVM address: 0x32707015d160F76f268a560F24a868D79251cF91
+2025-07-07 14:43:36,390 - INFO - Creating Vara keypair from private key
+2025-07-07 14:43:36,391 - INFO - Using Vara address: kGkZv3JrAudbdsKbw8nzgunwC1H5hjnh9o8V9GpUapcHAxTdj
+2025-07-07 14:43:36,967 - INFO - Ethereum ETH Balance: 21.273399054285771845 ETH
+2025-07-07 14:43:39,665 - INFO - Vara Balance: 0.0 VARA
+2025-07-07 14:43:39,670 - INFO - Bridging 0.001 ETH to Vara address: kGkLork3scX9ngz3vhFywax2uC3LUfp7m1PMxkQXdtdsnYiZA
+2025-07-07 14:43:40,817 - WARNING - Gas estimation failed: execution reverted. Using default gas limit: 500000
+2025-07-07 14:43:43,115 - INFO - Bridge transaction submitted with hash: 0xfca94c50baecb9ddc8b11c589f9c25b6cf6b72d0af538c81973d60805e212eee
+2025-07-07 14:43:43,115 - INFO - Waiting for transaction confirmation (up to 2 minutes)...
+2025-07-07 14:43:51,477 - ERROR - Bridge transaction FAILED
+2025-07-07 14:43:51,478 - ERROR - Failure details: Transaction failed on-chain. Check explorer for details.
+2025-07-07 14:43:51,479 - INFO - Saved 1 transaction hashes to vara_bridge_transactions_20250707_144351.txt and vara_bridge_transactions_20250707_144351.json
+2025-07-07 14:43:51,479 - WARNING - Bridge transaction was submitted but failed on-chain
+2025-07-07 14:43:51,479 - INFO - Please check the transaction on a blockchain explorer for more details
+2025-07-07 14:43:51,480 - INFO - Transaction details saved to vara_bridge_transactions_20250707_144351.txt and vara_bridge_transactions_20250707_144351.json
+2025-07-07 14:43:51,480 - INFO - Waiting 180 seconds before the next transaction...
+2025-07-07 14:49:25,669 - INFO - Starting ETH <-> Vara Bridge
+2025-07-07 14:49:25,671 - INFO - Attempting to connect to Ethereum using: https://ethereum-holesky.publicnode.com
+2025-07-07 14:49:26,403 - INFO - Successfully connected to Ethereum using: https://ethereum-holesky.publicnode.com
+2025-07-07 14:49:28,462 - INFO - Connected to Ethereum: True
+2025-07-07 14:49:28,462 - INFO - Connected to Vara chain: Vara Network Testnet using RPC: wss://testnet.vara.network
+2025-07-07 14:49:28,482 - INFO - Using EVM address: 0x32707015d160F76f268a560F24a868D79251cF91
+2025-07-07 14:49:28,482 - INFO - Creating Vara keypair from private key
+2025-07-07 14:49:28,482 - INFO - Using Vara address: kGkZv3JrAudbdsKbw8nzgunwC1H5hjnh9o8V9GpUapcHAxTdj
+2025-07-07 14:49:29,079 - INFO - Ethereum ETH Balance: 21.273399031165378805 ETH
+2025-07-07 14:49:31,766 - INFO - Vara Balance: 0.0 VARA
+2025-07-07 14:49:31,770 - INFO - Bridging 0.001 ETH to Vara address: kGkLork3scX9ngz3vhFywax2uC3LUfp7m1PMxkQXdtdsnYiZA
+2025-07-07 14:49:33,009 - WARNING - Gas estimation failed: execution reverted. Using default gas limit: 500000
+2025-07-07 14:49:33,009 - INFO - Using transaction data: 0x6b476b4cd4a5fb8326bb9d4dd6fa34e60fc5c2f18e8b677b39908e78907df89b0948bd67
+2025-07-07 14:49:35,353 - INFO - Bridge transaction submitted with hash: 0x020b7547123a5e57cb8227342f97d4864c6a13186a3614d9b78e5b6926248830
+2025-07-07 14:49:35,353 - INFO - Waiting for transaction confirmation (up to 2 minutes)...
+2025-07-07 14:50:13,718 - ERROR - Bridge transaction FAILED
+2025-07-07 14:50:13,719 - ERROR - Failure details: Transaction failed on-chain. Check explorer for details.
+2025-07-07 14:50:13,722 - INFO - Saved 1 transaction hashes to vara_bridge_transactions_20250707_145013.txt and vara_bridge_transactions_20250707_145013.json
+2025-07-07 14:50:13,722 - WARNING - Bridge transaction was submitted but failed on-chain
+2025-07-07 14:50:13,722 - INFO - Please check the transaction on a blockchain explorer for more details
+2025-07-07 14:50:13,722 - INFO - Transaction details saved to vara_bridge_transactions_20250707_145013.txt and vara_bridge_transactions_20250707_145013.json
+2025-07-07 14:50:13,722 - INFO - Waiting 300 seconds before the next transaction...
+2025-07-07 14:53:27,806 - INFO - Starting ETH <-> Vara Bridge
+2025-07-07 14:53:27,809 - INFO - Attempting to connect to Ethereum using: https://ethereum-holesky.publicnode.com
+2025-07-07 14:53:28,566 - INFO - Successfully connected to Ethereum using: https://ethereum-holesky.publicnode.com
+2025-07-07 14:53:30,692 - INFO - Connected to Ethereum: True
+2025-07-07 14:53:30,692 - INFO - Connected to Vara chain: Vara Network Testnet using RPC: wss://testnet.vara.network
+2025-07-07 14:53:30,723 - INFO - Using EVM address: 0x32707015d160F76f268a560F24a868D79251cF91
+2025-07-07 14:53:30,723 - INFO - Creating Vara keypair from private key
+2025-07-07 14:53:30,724 - INFO - Using Vara address: kGkZv3JrAudbdsKbw8nzgunwC1H5hjnh9o8V9GpUapcHAxTdj
+2025-07-07 14:53:31,326 - INFO - Ethereum ETH Balance: 21.273399008725131965 ETH
+2025-07-07 14:53:33,917 - INFO - Vara Balance: 0.0 VARA
+2025-07-07 14:53:33,923 - INFO - Bridging 0.001 ETH to Vara address: kGkLork3scX9ngz3vhFywax2uC3LUfp7m1PMxkQXdtdsnYiZA
+2025-07-07 14:53:35,117 - WARNING - Gas estimation failed: execution reverted. Using default gas limit: 500000
+2025-07-07 14:53:35,118 - INFO - Using transaction data: 0x6b476b4cd4a5fb8326bb9d4dd6fa34e60fc5c2f18e8b677b39908e78907df89b0948bd67
+2025-07-07 14:53:37,513 - INFO - Bridge transaction submitted with hash: 0x53f8a5c66d4b2388a666e99ba70a596e96f3a6015156598ad7218a21ad999eee
+2025-07-07 14:53:37,513 - INFO - Waiting for transaction confirmation (up to 2 minutes)...
+2025-07-07 14:53:50,155 - ERROR - Bridge transaction FAILED
+2025-07-07 14:53:50,155 - ERROR - Failure details: Transaction failed on-chain. Check explorer for details.
+2025-07-07 14:53:50,156 - INFO - Saved 1 transaction hashes to vara_bridge_transactions_20250707_145350.txt and vara_bridge_transactions_20250707_145350.json
+2025-07-07 14:53:50,156 - WARNING - Bridge transaction was submitted but failed on-chain
+2025-07-07 14:53:50,156 - INFO - Please check the transaction on a blockchain explorer for more details
+2025-07-07 14:53:50,156 - INFO - Transaction details saved to vara_bridge_transactions_20250707_145350.txt and vara_bridge_transactions_20250707_145350.json
+2025-07-07 14:53:50,156 - INFO - Waiting 300 seconds before the next transaction...
+2025-07-11 17:11:48,179 - INFO - Starting ETH <-> Vara Bridge
+2025-07-11 17:11:48,182 - INFO - Attempting to connect to Ethereum using: https://ethereum-holesky.publicnode.com
+2025-07-11 17:11:49,045 - INFO - Successfully connected to Ethereum using: https://ethereum-holesky.publicnode.com
+2025-07-11 17:11:50,934 - INFO - Connected to Ethereum: True
+2025-07-11 17:11:50,934 - INFO - Connected to Vara chain: Vara Network Testnet using RPC: wss://testnet.vara.network
+2025-07-11 17:11:51,022 - INFO - Using EVM address: 0x32707015d160F76f268a560F24a868D79251cF91
+2025-07-11 17:11:51,022 - INFO - Creating Vara keypair from private key
+2025-07-11 17:11:51,023 - INFO - Using Vara address: kGkZv3JrAudbdsKbw8nzgunwC1H5hjnh9o8V9GpUapcHAxTdj
+2025-07-11 17:11:51,595 - INFO - Ethereum ETH Balance: 54.273398986284862685 ETH
+2025-07-11 17:11:56,046 - INFO - Vara Balance: 0.0 VARA
+2025-07-11 17:11:56,052 - INFO - Bridging 0.005 ETH to Vara address: kGkLork3scX9ngz3vhFywax2uC3LUfp7m1PMxkQXdtdsnYiZA
+2025-07-11 17:11:57,191 - WARNING - Gas estimation failed: execution reverted. Using default gas limit: 500000
+2025-07-11 17:11:57,192 - INFO - Using transaction data: 0x6b476b4cd4a5fb8326bb9d4dd6fa34e60fc5c2f18e8b677b39908e78907df89b0948bd67
+2025-07-11 17:11:59,146 - INFO - Bridge transaction submitted with hash: 0x13d1b28b94f3869eeda5676830543fbb9ba3c101ca34a4aa43287a23da04b3bb
+2025-07-11 17:11:59,146 - INFO - Waiting for transaction confirmation (up to 2 minutes)...
+2025-07-11 17:12:50,398 - ERROR - Bridge transaction FAILED
+2025-07-11 17:12:50,399 - ERROR - Failure details: Transaction failed on-chain. Check explorer for details.
+2025-07-11 17:12:50,401 - INFO - Saved 1 transaction hashes to vara_bridge_transactions_20250711_171250.txt and vara_bridge_transactions_20250711_171250.json
+2025-07-11 17:12:50,401 - WARNING - Bridge transaction was submitted but failed on-chain
+2025-07-11 17:12:50,401 - INFO - Please check the transaction on a blockchain explorer for more details
+2025-07-11 17:12:50,402 - INFO - Transaction details saved to vara_bridge_transactions_20250711_171250.txt and vara_bridge_transactions_20250711_171250.json
+2025-07-11 17:12:50,402 - INFO - Waiting 600 seconds before the next transaction...
